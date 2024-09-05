@@ -11,15 +11,16 @@
   <div class="container">
     <!-- Sidebar -->
     <aside class="sidebar">
-      <nav>
-        <ul>
-          <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
-          <li><a href="{{ '/pages/syllabus/' | relative_url }}" {% if page.url == '/pages/syllabus.html' %}class="active"{% endif %}>Syllabus</a></li>
-          <li><a href="{{ '/pages/about/' | relative_url }}" {% if page.url == '/pages/about/' %}class="active"{% endif %}>About</a></li>
-          <li><a href="{{ '/pages/schedule/' | relative_url }}" {% if page.url == '/pages/schedule/' %}class="active"{% endif %}>Schedule</a></li>
-        </ul>
-      </nav>
+        <nav>
+            <ul>
+                <li><a href="{{ site.baseurl }}/pages/syllabus.html">Syllabus</a></li>
+                <li><a href="{{ site.baseurl }}/pages/schedule.html">Schedule</a></li>
+                <li><a href="{{ site.baseurl }}/pages/project-info.html">Project Information</a></li>
+                <li><a href="{{ site.baseurl }}/pages/resources.html">Project Resources</a></li>
+            </ul>
+        </nav>
     </aside>
+    
 
     <!-- Main Content -->
     <main class="main-content">
