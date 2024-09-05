@@ -32,17 +32,43 @@ This course will emphasize hands-on experience in the creation, management, and 
 ---
 
 ### Grading
-
-| Component                        | Weight | Notes / Due                                             |
-|-----------------------------------|--------|---------------------------------------------------------|
-| **Student Survey**                |        | First week of class                                     |
-| **Lectures, readings and other material** |        | Weekly before class discussion                          |
-| **Labs/Homework**                 | 30%    | Typically weekly based on reading and discussions       |
-| **Class Participation**           | 5%     | We'll measure this through various methods              |
-| **Quizzes**                       | 15%    | 3 or 4 quizzes, we'll see how it goes                   |
-| **Data Projects**                 | 50%    | We will do two data projects over the semester and will not have a final |
-
----
+<table style="width:100%; border-collapse:separate; border-spacing: 0 15px;">
+  <tr>
+    <th style="text-align:left; padding-bottom: 10px;">Component</th>
+    <th style="text-align:left; padding-bottom: 10px;">Weight</th>
+    <th style="text-align:left; padding-bottom: 10px;">Notes / Due</th>
+  </tr>
+  <tr>
+    <td>Student Survey</td>
+    <td></td>
+    <td>First week of class</td>
+  </tr>
+  <tr>
+    <td>Lectures, readings and other material</td>
+    <td></td>
+    <td>Weekly before class discussion</td>
+  </tr>
+  <tr>
+    <td>Labs/Homework</td>
+    <td>30%</td>
+    <td>Typically weekly based on reading and discussions</td>
+  </tr>
+  <tr>
+    <td>Class Participation</td>
+    <td>5%</td>
+    <td>We'll measure this through various methods</td>
+  </tr>
+  <tr>
+    <td>Quizzes</td>
+    <td>15%</td>
+    <td>3 or 4 quizzes, we'll see how it goes</td>
+  </tr>
+  <tr>
+    <td>Data Projects</td>
+    <td>50%</td>
+    <td>We will do two data projects over the semester and will not have a final</td>
+  </tr>
+</table>
 
 - **Student Survey**: A simple questionnaire for me to ascertain baseline skills for the class and students' familiarity with a variety of tools and concepts.
 - **Lectures / Reading / Viewing**: Will be posted beforehand. Though not a graded portion of the course, lectures, readings, and supporting videos have been carefully selected to introduce and explain important concepts to you. Should you not digest these, you will likely not perform well in the course. Lectures and all links will remain posted for the entire semester.
