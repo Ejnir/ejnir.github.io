@@ -1,3 +1,7 @@
+---
+layout: default
+title: Syllabus
+---
 # Course Syllabus
 
 ### DS 2002 M/W 12:00 and 5:00 Sections Data Science Systems  
