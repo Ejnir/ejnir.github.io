@@ -91,9 +91,9 @@ My job is to serve you. I want to make myself as available as possible. While I�
 
 Students in this course will be expected to use the following pieces of software on a weekly basis:
 
-- **Discord**: Discord will serve as our hub for discussions, Q&A, and distributing extra material specific to topics or assignments. Download the software, create a Discord account, and join the class server.
-- **Git/GitHub**: Students are expected to know how to version control their material using Git. Some programming assignments will require submission via commits pushed to GitHub.
-- **Cloud**: All students will use Google accounts and credits for this course. We will get set up when the time comes.
+- **Discord** (Link Under Canvas Announcements): Discord will serve as our hub for discussions, Q&A, and distributing extra material specific to topics or assignments. Download the software, create a Discord account, and join the class server.
+- [**Git/GitHub**](https://github.com/fourfeatherz/DS2002F24): Students are expected to know how to version control their material using Git. Some programming assignments will require submission via commits pushed to GitHub.
+- [**Cloud**](https://jasonwnc.github.io/ds3002/aws/): All students will use Google accounts and credits for this course. We will get set up when the time comes.
 - **Database**: We will also use locally installed instances of MySQL, MySQLite, and other tools. I will make a version available of MySQL on a server if you don’t wish to install locally. We will eventually use a cloud-based version as we progress.
 - **Python**: Our coding will be in Python, and we will be using the Anaconda Navigator for our IDE and Python management.
 
@@ -116,16 +116,52 @@ The course will be conducted according to the UVA honor system. Programming assi
 
 All suspected violations will be forwarded to the Honor Committee, and you may, at my discretion, receive an immediate zero on that assignment regardless of any action taken by the Honor Committee.
 
-If you believe you may have committed an Honor Offense, you may wish to file a Conscientious Retraction by calling the Honor Offices at (434)924-7602. For your retraction to be considered valid, it must, among other things, be filed with the Honor Committee before you are aware that the act in question has come under suspicion by anyone. More information can be found at [http://honor.virginia.edu](http://honor.virginia.edu).
+If you believe you may have committed an Honor Offense, you may wish to file a Conscientious Retraction by calling the Honor Offices at (434)924-7602. For your retraction to be considered valid, it must, among other things, be filed with the Honor Committee before you are aware that the act in question has come under suspicion by anyone. More information can be found at [http://honor.virginia.edu](http://honor.virginia.edu).Your Honor representatives can be found at: [http://honor.virginia.edu/representatives](http://honor.virginia.edu/representatives).
 
 ---
 
 ### Disabilities or Learning Needs
 
-It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations.
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services online: [sdac.studenthealth.virginia.edu](https://sdac.studenthealth.virginia.edu/). If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+Lectures and other learning material will be made available throughout the semester, and all assignments and exams will be granted ample time for completions. Should you require accommodations through SDAC for extra time, please contact me
 
 ---
 
-### Other Policies
+### Discrimination and power-based violence
 
-Further course policies can be found on the course's official website.
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that I and the University hold as critically important:
+
+1. Power-based personal violence will not be tolerated.
+2. Everyone has a responsibility to do their part to maintain a safe community on Grounds.
+
+If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available - www.virginia.edu/sexualviolence.
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and federal law to report what you tell me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you wish to report something that you have seen, you can do so at the **Just Report It** portal ([http://justreportit.virginia.edu/](http://justreportit.virginia.edu/)). **The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.**
+
+---
+
+### Religious Accommodations
+
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200.
+
+---
+
+### Preservation of classroom discussions
+
+I will preserve weekly class discussions in Discord for the duration of the semester. Because these discussions include fellow students, you and they may be personally identifiable in these discussion logs. These logs may only be used for the purpose of individual or group study with other students enrolled in this class during this semester. You may not distribute them in whole or in part through any other platform or to any persons outside of this class, nor may you make your own copies of class discussions unless written permission has been obtained from the Instructor and all participants in the class have been informed. For additional details, please see Provost Policy 008 which is expected to be updated for the Fall 2020 semester.
+
+---
+
+### Other Details
+
+- Students are expected to complete every reading and watch every lecture. Failure to do so will undoubtedly leave gaps in your understanding of the subject, and the specifics required for assignments and exams.
+- You should never wait until the last minute to work on any aspect of this class. Computers and software can crash, and websites can have temporary outages. Keep close to the class schedule for readings, lectures, and assignments.
+
+---
+
+### Support or Contact
+
+If you have a question about any aspect of this course - a particular topic, method, concept, etc. - please contact the TAs or me via Discord or email. It is often the case that you're not the only one having trouble understanding it
