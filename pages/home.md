@@ -1,5 +1,5 @@
 ---
-layout: default  # or 'with-sidebar'
+layout: default 
 title: Home
 ---
 # Welcome to DS2002 Data Science Systems
