@@ -26,6 +26,7 @@
     color: #333;
     font-weight: bold;
     padding-left: 10px; /* Moves the text slightly to the right inside the sidebar */
+    font-family: 'Arial', sans-serif; /* Change this to the desired font */
 }
 
 .sidebar ul li a:hover {
