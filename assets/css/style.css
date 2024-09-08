@@ -1,3 +1,25 @@
+/* Header Styles */
+.site-header {
+    width: 100%;
+    background-color: #333; /* Dark background color for the header */
+    color: white; /* White text color */
+    padding: 10px 0; /* Padding for space inside the header */
+    text-align: center; /* Center align the text */
+    border-bottom: 2px solid #ddd; /* Optional border at the bottom of the header */
+}
+
+.site-header .header-content h1 {
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+}
+
+.site-header .header-content p {
+    margin: 0;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+}
+
 /* Container to hold both sidebar and main content */
 .container {
     display: flex;
