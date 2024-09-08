@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
+  <!-- Top Bar/Header -->
+  <header class="site-header">
+    <div class="header-content">
+      <h1>DS 4002</h1>
+    </div>
+  </header>
+
   <div class="container">
     <!-- Sidebar -->
     <aside class="sidebar">
@@ -22,14 +29,6 @@
 
     <!-- Main Content and Header -->
     <div class="content-area">
-      <!-- Top Bar/Header -->
-      <header class="site-header">
-        <div class="header-content">
-          <h1>Course Name: DS 4002</h1>
-          <p>Welcome to the course website</p>
-        </div>
-      </header>
-
       <!-- Main Content -->
       <main class="main-content">
         {{ content }}
@@ -37,4 +36,5 @@
     </div>
   </div>
 </body>
+
 </html>
