@@ -2,7 +2,7 @@
 .site-header {
     width: 100%;
     background-color: #f4f4f9; /* Dark background color for the header */
-    color: #ffffff; /* White text color */
+    color: #333; /* White text color */
     padding: 10px 0; /* Padding for space inside the header */
     text-align: center; /* Center align the text */
     border-bottom: 2px solid #ddd; /* Add a light bottom border for clean separation */
